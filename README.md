@@ -2,11 +2,11 @@
 Estudos envolvendo lógica de programação com Python
 Para utilizar a documentação você deverá ter instalado as seguintes bibliotecas>
 ````
-***QRCODE***
-***SECRETS***
-***STRING***
-***GMPY2***
-***RANDOM***
+QRCODE
+SECRETS
+STRING
+GMPY2
+RANDOM
 ````
 
 ### O que cada item faz?
